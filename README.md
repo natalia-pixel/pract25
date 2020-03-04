@@ -1,0 +1,2 @@
+# pract25
+listas
